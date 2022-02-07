@@ -1,3 +1,5 @@
+$.fn.dataTable.ext.errMode = 'none'; //Optional, but can help avoid repeated error messages while configuring the module. 
+
 var elId = fragmentElement.getAttribute("id");
 $("#"+elId+" table").DataTable();
 
