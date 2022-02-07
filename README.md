@@ -1,4 +1,4 @@
-# Sortable Datatable Fragment for Liferay Objects
+# Sortable Data Table Fragment for Liferay Objects
 
 It is a very common ask for teams to want to show data in a sortable and filterable data table. Using Liferay Objects, Fragments, and Liferay's Headless API teams can quickly make fully functional systems that are more powerful and require less customization than ever before!
 
