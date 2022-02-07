@@ -24,6 +24,10 @@ In this session, we will build a functional application that demonstrates Lifera
 | Battery Range     | Integer              | Yes       |
 | Total Range     	| Integer              | Yes       |
 
+<img src="./assets/datatable-0.png" alt="drawing" width="500"/>
+
+3. Finish publishing your new object with in company scope. 
+
 ## Build Fragment Bundle
 
 npm run compress
@@ -32,7 +36,11 @@ Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragmen
 
 ## Load content
 
-Load enough content so that each column has a todo. Empty columns have an issue, breaking the layout.
+Load content. Loading many records quickly is easy to do using the headless api's bulk endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
+
+<img src="./assets/datatable-1.png" alt="drawing" width="500"/>
+
+<img src="./assets/datatable-2.png" alt="drawing" width="500"/>
 
 ## jQuery Configuration
 
@@ -43,7 +51,10 @@ Enable jQuery in "System Settings" > "Third Party" > "jQuery"
 ## Page Setup
 
 * Add the "Datatable from Objects" fragment to page
+
 * Configure your datasource and columns in the sidebar.
+
+<img src="./assets/datatable-3.png" alt="drawing" width="500"/>
 
 
 ## Contribute! 

@@ -7,7 +7,7 @@
                     "label": "API Path",
                     "type": "text",
                     "dataType": "string",
-                    "defaultValue": "/o/c/electricvehicles/"
+                    "defaultValue": "/o/c/electricvehicles/?pageSize=1000"
                 },
 							{
                     "name": "columns",
