@@ -26,7 +26,7 @@ Liferay continues to invest in features that make low-code development possible.
 | Battery Range     | Integer              | Yes       |
 | Total Range     	| Integer              | Yes       |
 
-<img src="./assets/datatable-0.png" alt="drawing" width="600"/>
+<img src="./assets/datatable-0.png" alt="drawing" width="700"/>
 
 3. Finish publishing your new object with in company scope. 
 
@@ -42,7 +42,7 @@ Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragmen
 
 Load content. Loading many records quickly is easy to do using the headless api's bulk endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
 
-<img src="./assets/datatable-1.png" alt="drawing" width="500"/>
+<img src="./assets/datatable-1.png" alt="drawing" width="700"/>
 
 ## jQuery Configuration
 
