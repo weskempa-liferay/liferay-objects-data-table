@@ -30,6 +30,8 @@ In this session, we will build a functional application that demonstrates Lifera
 
 ## Build Fragment Bundle
 
+Navigate to the downloaded collection and run the following:
+
 npm run compress
 
 Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragments.
