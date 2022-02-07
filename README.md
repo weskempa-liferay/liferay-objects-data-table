@@ -32,7 +32,7 @@ Liferay continues to invest in features that make low-code development possible.
 
 ## Load content
 
-Loading many records quickly is easy to do using the headless api's bulk endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
+Loading many records quickly is easy to do using the headless api's batch endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
 
 <img src="./assets/datatable-1.png" alt="drawing" width="700"/>
 
