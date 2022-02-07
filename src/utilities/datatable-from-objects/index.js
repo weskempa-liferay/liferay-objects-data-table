@@ -39,10 +39,8 @@ Liferay.Util.fetch(
     .then((response) => response.json()) 
     .then((data) => {
     //console.log("Return");
-    console.log(data);
-    
+    //console.log(data);
     loadData(data);
-    
 })
     .catch((error) => {
     console.log(error);
