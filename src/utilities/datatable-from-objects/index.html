@@ -1,0 +1,19 @@
+<!-- Make sure portal jquery is enabled -->
+
+<script src="https://cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+<link href="https://cdn.datatables.net/1.11.4/css/jquery.dataTables.min.css" rel="stylesheet">
+
+[#assign ns = fragmentEntryLinkNamespace /]
+
+<div class="datatable jqDataTable-${ns}">
+    <table id="jqDataTable-${ns}" class="display" width="100%">
+      <thead>
+        <tr>
+                    [#list configuration.columns?split(",") as column]
+          <th>${column}</th>
+                    [/#list]
+        </tr>
+      </thead>
+    </table>
+
+</div>

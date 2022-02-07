@@ -1,0 +1,22 @@
+{
+    "fieldSets": [
+        {
+            "fields": [
+                {
+                    "name": "apipath",
+                    "label": "API Path",
+                    "type": "text",
+                    "dataType": "string",
+                    "defaultValue": "/o/c/electricvehicles/"
+                },
+							{
+                    "name": "columns",
+                    "label": "Display Columns",
+                    "type": "text",
+                    "dataType": "string",
+                    "defaultValue": "make,model,eVType,batteryRange,totalRange"
+                }
+            ]
+        }
+    ]
+}
