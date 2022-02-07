@@ -26,7 +26,7 @@ Liferay continues to invest in features that make low-code development possible.
 | Battery Range     | Integer              | Yes       |
 | Total Range     	| Integer              | Yes       |
 
-<img src="./assets/datatable-0.png" alt="drawing" width="500"/>
+<img src="./assets/datatable-0.png" alt="drawing" width="600"/>
 
 3. Finish publishing your new object with in company scope. 
 
@@ -56,9 +56,9 @@ Enable jQuery in "System Settings" > "Third Party" > "jQuery"
 
 * Configure your datasource and columns in the sidebar.
 
-<img src="./assets/datatable-2.png" alt="drawing" width="500"/>
+<img src="./assets/datatable-2.png" alt="drawing" width="400"/>
 
-<img src="./assets/datatable-3.png" alt="drawing" width="500"/>
+<img src="./assets/datatable-3.png" alt="drawing" width="700"/>
 
 
 ## Contribute! 
