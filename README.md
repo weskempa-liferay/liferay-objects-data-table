@@ -1,10 +1,10 @@
 # Sortable Datatable Fragment for Liferay Objects
 
-Liferay continues to invest in features that make low-code development possible. Using Liferay Objects, Collections, Forms, and Fragments, teams can quickly make fully functional systems that are more powerful and require less customization than ever before! Liferay Objects are automatically integrated with other Liferay Frameworks like Workflow, Permissions, Asset so that they can be immediately used alongside any out-of-the-box capabilities. 
-
 It is a very common ask for teams to want to show data in a sortable and filterable data table. Using Liferay Objects, Fragments, and Liferay's Headless API teams can quickly make fully functional systems that are more powerful and require less customization than ever before!
 
 Here is a good example with complete fragment code to get you started.
+
+Liferay continues to invest in features that make low-code development possible. Using Liferay Objects, Collections, Forms, and Fragments, teams can quickly make fully functional systems that are more powerful and require less customization than ever before! Liferay Objects are automatically integrated with other Liferay Frameworks like Workflow, Permissions, Asset so that they can be immediately used alongside any out-of-the-box capabilities. 
 
 *Let’s build great things together!!*
 
