@@ -30,7 +30,7 @@ In this session, we will build a functional application that demonstrates Lifera
 
 ## Build Fragment Bundle
 
-Navigate to the downloaded collection and run the following:
+Navigate to the downloaded collection and run the following or download it <a href="./assets/datatable-from-objects.zip" target="_blank">here</a>.
 
 npm run compress
 
