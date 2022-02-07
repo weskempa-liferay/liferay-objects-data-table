@@ -30,14 +30,6 @@ Liferay continues to invest in features that make low-code development possible.
 
 3. Finish publishing your new object with in company scope. 
 
-## Build Fragment Bundle
-
-Navigate to the downloaded collection and run the following command. Alternatley, download the compressed zip it from <a href="./assets/datatable-from-objects.zip" target="_blank">here</a>.
-
-npm run compress
-
-Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragments.
-
 ## Load content
 
 Load content. Loading many records quickly is easy to do using the headless api's bulk endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
@@ -49,6 +41,14 @@ Load content. Loading many records quickly is easy to do using the headless api'
 *Note: Current version required jquery for event handling, dom traversal, and dropdown behavior.*
 
 Enable jQuery in "System Settings" > "Third Party" > "jQuery"
+
+## Build Fragment Bundle
+
+Navigate to the downloaded collection and run the following command. Alternatley, download the compressed zip it from <a href="./assets/datatable-from-objects.zip" target="_blank">here</a>.
+
+npm run compress
+
+Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragments.
 
 ## Page Setup
 
