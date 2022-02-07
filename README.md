@@ -56,6 +56,8 @@ Enable jQuery in "System Settings" > "Third Party" > "jQuery"
 
 * Configure your datasource and columns in the sidebar.
 
+<img src="./assets/datatable-2.png" alt="drawing" width="500"/>
+
 <img src="./assets/datatable-3.png" alt="drawing" width="500"/>
 
 
