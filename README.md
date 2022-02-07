@@ -10,6 +10,8 @@ In this session, we will build a functional application that demonstrates Lifera
 
 # 7.4 Setup
 
+<img src="./assets/datatable-3.png" alt="drawing"/>
+
 ## Liferay Object 
 
 1. Create Electric Vehicle Object (Example: Feel free to build an object structure that suits your needs) 
@@ -41,8 +43,6 @@ Import /liferay-objects-data-table/build/liferay-fragments.zip into site fragmen
 Load content. Loading many records quickly is easy to do using the headless api's bulk endpoint. <a href="./assets/bulk-data.json" target="_blank">Example data can be found here</a> for the Electric Vehicle example object.
 
 <img src="./assets/datatable-1.png" alt="drawing" width="500"/>
-
-<img src="./assets/datatable-2.png" alt="drawing" width="500"/>
 
 ## jQuery Configuration
 
