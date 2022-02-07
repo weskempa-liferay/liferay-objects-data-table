@@ -1,4 +1,4 @@
-# Datatable Fragment for Liferay Objects
+# Sortable Datatable Fragment for Liferay Objects
 
 Liferay continues to invest in features that make low-code development possible. Using Liferay Objects, Collections, Forms, and Fragments, teams can quickly make fully functional systems that are more powerful and require less customization than ever before!
 
