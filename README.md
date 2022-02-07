@@ -8,9 +8,9 @@ Liferay continues to invest in features that make low-code development possible.
 
 *Let’s build great things together!!*
 
-# 7.4 Setup
-
 <img src="./assets/datatable-3.png" alt="drawing"/>
+
+# 7.4 Setup
 
 ## Liferay Object 
 
