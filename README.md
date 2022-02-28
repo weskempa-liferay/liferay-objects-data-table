@@ -44,7 +44,7 @@ Enable jQuery in "System Settings" > "Third Party" > "jQuery"
 
 ## Build Fragment Bundle
 
-Navigate to the downloaded collection and run the following command. Alternatley, download the compressed zip it from <a href="./assets/datatable-from-objects.zip" target="_blank">here</a>.
+Navigate to the downloaded collection and run the following command. Alternatley, download the compressed zip file from <a href="./assets/datatable-from-objects.zip" target="_blank">here</a>.
 
 npm run compress
 
